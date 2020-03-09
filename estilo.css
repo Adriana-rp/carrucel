@@ -1,0 +1,13 @@
+@charset "UTF-8";
+#texto {
+    position: static;
+    margin-left: 1cm;
+    margin-top: 1cm;
+    margin-right: 1cm;
+    margin-bottom: 1cm;
+}
+#menufijo {
+    position: fixed;
+    z-index: 1;
+    margin-left: 12%;
+}
